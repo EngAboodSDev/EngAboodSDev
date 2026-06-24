@@ -58,8 +58,8 @@ I am a highly motivated and results-driven **Software Engineer and Backend Archi
 ### 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Abdulrahman's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngAboodSDev&show_icons=true&theme=tokyonight&count_private=true" alt="Abdulrahman's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAboodSDev&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
