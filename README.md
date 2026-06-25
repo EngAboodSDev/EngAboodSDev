@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 💻 ​Software Engineer | <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" width="45" height="30" valign="middle"/> Laravel/PHP Engineer | 👨🏻‍💻 API & Backend Development Specialist | 📊 Business Systems & Custom CMS Architect | 🚀 Scalable Web Application Developer 
-#### 📍 Sana'a, Yemen
+### 💻 ​Software Engineer | <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="28" height="22" valign="middle"/> Laravel/PHP Engineer | 👨🏻‍💻 API & Backend Development Specialist | 📊 Business Systems & Custom CMS Architect | 🚀 Scalable Web Application Developer 
+#### 📍 Sana'a, Yemen   — <a href="tel:+967777413231" style="text-decoration: none;color: black;"> 📱+(967) 777-413-231</a> 
 
 > *"Created with perfection and balance, from the land of Yemen to all quarters of the world, to contribute to its betterment with excellence and worship my Lord with pure devotion."* <br>
 **"خُلِقتُ بإتقان واعتدال، من أرض اليمن إلى كل أصقاع العالم، لأُعمرها بإحسان وأعبد ربي بإخلاص."**  
 </div>
 
----
+</br>
 
 # 💫 About Me
 I am a Highly Motivated and Results-Driven **Software Engineer and Backend Architect** specialized in building robust business ecosystems, custom CMS platforms, and scalable web applications. With a strong engineering foundation (B.S. in Software Engineering), I focus on turning complex business logic into clean, maintainable, and high-performance code using PHP and Laravel.
@@ -37,6 +37,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 - 🌍 Open for international full-time opportunities, backend roles, and custom system architecture consulting.
 
 ---
+
 
 # 🚀 Core Expertise
 * 🌐 **Backend & API Architecture:** Designing secure, RESTful APIs and optimizing relational database performance.
@@ -75,11 +76,11 @@ _“Let's build something scalable and impactful. Feel free to reach out for int
 
 <div align="center">
 
-[![Phone](https://img.shields.io/badge/Phone-007ACC?&logo=viber&logoColor=white)](tel:+967777413231) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/967777413231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahmanfadhl@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EngAboodSDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EngAboodSDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EngAboodSDev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EngAboodSDev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@EngAboodSDev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/EngAboodSDev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngAboodSDev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24811416) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/EngAboodSDev) 
+![Call phone](https://img.shields.io/badge/Phone-%2B967777413231-blue?style=flat&logo=viber&logoColor=white) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/967777413231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahmanfadhl@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EngAboodSDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EngAboodSDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EngAboodSDev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EngAboodSDev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@EngAboodSDev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/EngAboodSDev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngAboodSDev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24811416) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/EngAboodSDev) 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,1,2&height=100&section=footer" width="100%" />
 
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer) -->
