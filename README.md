@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 [ #111c26 #27374d  #4bc9b0 ]: # 
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,90,2&height=200&section=header&text=Hi%20there,%20I'm%20Abdulrahman%20Fadh👋&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
 
 
@@ -80,7 +81,8 @@ _“Let's build something scalable and impactful. Feel free to reach out for int
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,1,2&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer" width="100%" />
 
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer) -->
