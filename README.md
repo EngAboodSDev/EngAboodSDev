@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 💻 ​Software Engineer | <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="28" height="22" valign="middle"/> Laravel/PHP Engineer | 👨🏻‍💻 API & Backend Development Specialist | 📊 Business Systems & Custom CMS Architect | 🚀 Scalable Web Application Developer 
+### 💻 ​Software Engineer | <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="28" height="22" valign="middle"/> Laravel/PHP Engineer | 👨🏻‍💻 API & Backend Development Specialist | </br> 📊 Business Systems & Custom CMS Architect | 🚀 Scalable Web Application Developer 
 #### 📍 Sana'a, Yemen   — <a href="tel:+967777413231" style="text-decoration: none;color: black;"> 📱+(967) 777-413-231</a> 
 
 > *"Created with perfection and balance, from the land of Yemen to all quarters of the world, to contribute to its betterment with excellence and worship my Lord with pure devotion."* <br>
