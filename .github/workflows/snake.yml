@@ -28,8 +28,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#4bc9b0&color_dots=#ebedf0,#111c26,#27374d,#39807e,#4bc9b0
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#4bc9b0&color_dots=#111c26,#1b2737,#27374d,#39807e,#4bc9b0&color_background=#0d1117
+            dist/github-contribution-grid-snake.svg?color_snake=#27374d&color_dots=#ebedf0,#a2e0d3,#4bc9b0,#42a495,#39807e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#27374d&color_dots=#161b22,#a2e0d3,#4bc9b0,#42a495,#39807e&color_background=#0d1117
           
       # رفع الصورة الناتجة إلى فرع جديد باسم (output)
       - name: Push github-contribution-grid-snake.svg to the output branch
