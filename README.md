@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [ #111c26 #27374d  #4bc9b0 ]: # 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,90,2&height=200&section=header&text=Hi%20there,%20I'm%20Abdulrahman%20Fadh👋&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,90,2&height=200&section=header&text=Hi%20there,%20I'm%20Abdulrahman%20Fadhl👋&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
 
 
 <div align="center">
@@ -54,9 +54,19 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 
 # 📊 GitHub Analytics & Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=EngAboodSDev&theme=vue-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=EngAboodSDev&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=EngAboodSDev&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=EngAboodSDev&theme=vue-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=EngAboodSDev&theme=vue-dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EngAboodSDev&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
