@@ -63,12 +63,12 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_moving_neon_gradient.svg)](https://github.com/EngAboodSDev)
 
 
-<details>
+<details open>
   <summary> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/core-expertise-header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/core-expertise-header-light.svg">
-    <img alt="About Me" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/core-expertise-header-light.svg" width="97%" align="middle">
+    <img alt="Core Expertise" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/core-expertise-header-light.svg" width="97%" align="middle">
   </picture>
   </summary>
 
@@ -79,7 +79,22 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 </details>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_moving_neon_gradient.svg)](https://github.com/EngAboodSDev)
+[![divider_cyber_cycle](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_cyber_cycle.svg)](https://github.com/EngAboodSDev)
+
+<details open>
+  <summary> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/featured-projects-header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/featured-projects-header-light.svg">
+   <img alt="Featured Projects" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/featured-projects-header-light.svg" width="97%" align="middle">
+  </picture>
+  </summary>
+
+</details>
+
+
+[![divider_cyber_cycle_mirrored](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_cyber_cycle_mirrored.svg)](https://github.com/EngAboodSDev)
+
 
 
 <details open>
@@ -87,7 +102,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/tech-stack-header-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/tech-stack-header-light.svg">
-        <img alt="About Me" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/tech-stack-header-light.svg" width="97%" align="middle">
+        <img alt="Tech Stack" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/tech-stack-header-light.svg" width="97%" align="middle">
       </picture>
   </summary>
 
@@ -168,7 +183,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/github-stats-header-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/github-stats-header-light.svg">
-          <img alt="About Me" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/github-stats-header-light.svg" width="97%" align="middle">
+          <img alt="Github Stats" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/github-stats-header-light.svg" width="97%" align="middle">
         </picture>
   </summary>
 
@@ -211,7 +226,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/lets-connect-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/lets-connect-header-light.svg">
-  <img alt="About Me" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/lets-connect-header-light.svg" width="97%" align="middle">
+  <img alt="Lets Connect" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/lets-connect-header-light.svg" width="97%" align="middle">
 </picture>
 
 
