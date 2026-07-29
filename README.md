@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 [ #111c26 #27374d  #4bc9b0 # ]: # 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,90,2&height=200&section=header&text=Hi%20there,%20I'm%20Abdulrahman%20Fadhl👋&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
-
+<a href="https://github.com/EngAboodSDev"> 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,90,2&height=200&section=header&text=Hi%20there,%20I'm%20Abdulrahman%20Fadhl👋&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
+</a>
 
 <div align="center">
 
@@ -28,12 +28,14 @@ Here are some ideas to get you started:
 </samp>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=26&duration=4000&pause=500&color=4BC9B0&center=true&vCenter=true&random=true&width=600&lines=%F0%9F%92%BB+%E2%80%8BSoftware+Engineer;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Laravel%2FPHP+Engineer;%F0%9F%9B%A0%EF%B8%8F+API+%26+Backend+Development+Specialist+;%F0%9F%93%8A+Business+Systems+%26+Custom+CMS+Architect;%F0%9F%9A%80+Scalable+Web+Application+Developer)](https://github.com/EngAboodSDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=26&duration=3000&pause=500&color=4BC9B0&center=true&vCenter=true&random=true&width=700&lines=I'm+a+%E2%80%8BSoftware+Engineer+%F0%9F%92%BB+;I'm+a+Laravel%2FPHP+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;I'm+an+API+%26+Backend+Development+Specialist+%F0%9F%9B%A0%EF%B8%8F;I'm+a+Business+Systems+%26+Custom+CMS+Architect+%F0%9F%93%8A+;I'm+a+Scalable+Web+Application+Developer+%F0%9F%9A%80+)](https://github.com/EngAboodSDev)
 
-<p align="center" style="font-size:16px">
-<samp>
-📍Sana'a, Yemen — <a href="tel:+967777413231" style="text-decoration: none;color: black;"> 📱+(967) 777-413-231</a>
-</samp>
+
+<p align="center">
+  <a href="https://maps.app.goo.gl/CPmt6v8UQ1NYHn948"><img src="https://img.shields.io/badge/Find_Me-Sana'a,%20Yemen-4285F4?style=for-the-badge&logo=googlemaps&logoColor=blue" alt="Location" /></a>
+  <a href="https://linkly.link/2p9te"><img src="https://img.shields.io/badge/Call_Me-+(967)%20777--413--231-25D366?style=for-the-badge&logo=viber&logoColor=green" alt="Phone" /></a>
+  <a href="mailto:abdulrahmanfadhl@gmail.com"><img src="https://img.shields.io/badge/Email_Me-abdulrahmanfadhl@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" /></a>
+  <a href="https://github.com/EngAboodSDev"><img src="https://komarev.com/ghpvc/?username=EngAboodSDev&icon=6&color=4bc9b0&style=for-the-badge" alt="My Profile Views" /></a>
 </p>
  
 
@@ -78,6 +80,37 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 
 </details>
 
+
+[![divider_dual_energy_tracks](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_dual_energy_tracks.svg)](https://github.com/EngAboodSDev)
+
+
+<details open>
+  <summary> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/professional-experience-header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/professional-experience-header-light.svg">
+    <img alt="Core Expertise" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/professional-experience-header-light.svg" width="97%" align="middle">
+  </picture>
+  </summary>
+
+###  Laravel Full-Stack Web Developer
+**[@ Third Eye Soft](https://thirdeyesoft.com/ar)** | *Sept, 2025 — Present · Sana'a, Yemen*
+- 🚀 Built full-stack applications with Laravel, PHP, and JavaScript.
+- 🗄️ Designed MySQL databases, APIs, and responsive UIs.
+- 🤝 Collaborated with teams to translate business needs into technical solutions.
+
+
+### Freelance Software Engineer & Web Developer
+**[@ Self-Employed](https://drive.google.com/drive/folders/1p5rmharv6PwwQQqYkQd772IMSuDemmS6)** | *Jan, 2021 — Present · Sana'a, Yemen*
+- 🛠️ Delivered custom web applications for multiple clients across education, retail, and business sectors.
+- ⚙️ Developed robust and secure back-end systems and dynamic front-end.
+- ⚡ Integrated databases with optimized queries for performance.
+- 🔄 Managed full software lifecycle from requirement gathering to deployment and support.
+
+</br>
+
+
+</details>
 
 [![divider_cyber_cycle](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_cyber_cycle.svg)](https://github.com/EngAboodSDev)
 
@@ -238,6 +271,31 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 </details>
 
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_moving_neon_gradient.svg)](https://github.com/EngAboodSDev)
+
+<details>
+  <summary> 
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/certifications-courses-header-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/certifications-courses-header-light.svg">
+          <img alt="Github Stats" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/certifications-courses-header-light.svg" width="97%" align="middle">
+        </picture>
+  </summary>
+
+- **[Modern Workplace Skills Certificate](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *Amarji International Center Sana’a* (Dec, 2025 - Jan, 2026)
+- **[Laravel Developer Certificate](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *Third Eye Soft Company, Sana’a* (Sept - Dec, 2025)
+- **[Unleash Hack Talent Certificate](https://unleashfacilitatortraining.thinkific.com/certificates/6ksa6gurvp)** — *UNLEASH Yemen, Taiz* (Apr, 2025)
+- **[Introduction to Project Management Certificate](https://www.coursera.org/account/accomplishments/verify/YCPF31KSMYXU)** — *IBM In Coursera Platform, Online* (Nov, 2024)
+- **[Technical Committee Member in the 3rd international conference eSmarTA2023](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *University of Taiz, Taiz* (Oct, 2023)
+- **[Cooperative Applied Training Certificate](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *Hayel Saeed Anam Group, Taiz* (Jul - Sept, 2023)
+- **[Cyber Security Training Course](https://alrayan-university.edu.ye/wp-content/uploads/2021/10/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%81%D8%B6%D9%84.pdf)** — *EVET Company, Taiz* (Sept - Oct, 2023)
+- **[Employment and Career skills development Certificate](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *Rowad Foundation, Taiz* (Jul, 2020)
+- **[Courses in Career Skills, Goal Setting, and Decision-Making](https://for9a-media.s3.amazonaws.com/courses/certificate/forsa-certificate-859686726138067726.pdf)** — *Forsah Platform, Online* (Jun, 2020)
+- **[English language Diploma](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *The British Academic Institute, Taiz* (Oct, 2018 - Nov, 2019)
+- **[International Computer Driving License - ICDL](https://www.linkedin.com/in/engaboodsdev/details/certifications/)** — *Yemen Academic Institute, Taiz* (Oct, 2018 - Jan, 2019)
+
+</details>
+
 [![divider_dual_energy_tracks](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_dual_energy_tracks.svg)](https://github.com/EngAboodSDev)
 
 
@@ -248,19 +306,23 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 </picture>
 
 
-[![](https://komarev.com/ghpvc/?username=EngAboodSDev&icon=6&color=4bc9b0)](https://github.com/EngAboodSDev)
-
-_“Let's build something scalable and impactful. Feel free to reach out for international opportunities, full-time backend roles, or custom system development!
-”_
-
+</br>
+</br>
+<p align="center" style="font-size:20px">
+<samp> 
+“Let's build something scalable and impactful. Feel free to reach out for international opportunities, full-time backend roles, or custom system development!”
+</samp>
+</p>
+</br>
 <div align="center">
-
-![Call phone](https://img.shields.io/badge/Phone-%2B967777413231-blue?style=flat&logo=viber&logoColor=white) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/967777413231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahmanfadhl@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EngAboodSDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EngAboodSDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EngAboodSDev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EngAboodSDev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@EngAboodSDev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/EngAboodSDev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngAboodSDev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24811416) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/EngAboodSDev) 
+<a href="https://linkly.link/2p9te"><img src="https://img.shields.io/badge/Phone-%2B967777413231-blue?style=flat&logo=viber&logoColor=white" alt="Call Me" /></a>
+ 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahmanfadhl@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/967777413231) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EngAboodSDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EngAboodSDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EngAboodSDev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EngAboodSDev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@EngAboodSDev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/EngAboodSDev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngAboodSDev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24811416) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/EngAboodSDev) 
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer" width="100%" />
-
+<a href="https://github.com/EngAboodSDev">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer" width="100%" />
+</a>
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,1,2&height=100&section=footer) -->
