@@ -161,7 +161,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 
 </details>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_moving_neon_gradient.svg)](https://github.com/EngAboodSDev)
+[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_circuit_pulse_bar.svg)](https://github.com/EngAboodSDev)
 
 <details>
   <summary> 
@@ -205,7 +205,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 </details>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_moving_neon_gradient.svg)](https://github.com/EngAboodSDev)
+[![divider_dual_energy_tracks](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/divider_dual_energy_tracks.svg)](https://github.com/EngAboodSDev)
 
 
 <picture>
