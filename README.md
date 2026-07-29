@@ -89,6 +89,24 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
    <img alt="Featured Projects" src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/headlines/featured-projects-header-light.svg" width="97%" align="middle">
   </picture>
   </summary>
+ 
+  <table width="100%">
+  <tr>
+    <td width="33%"><a href="https://arabia.green"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/arabia.green.png" alt="Arabia Green" width="100%"></a></td>
+    <td width="33%"><a href="https://atharinternationall.com"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/atharinternationall.com.png" alt="Athar Internationall" width="100%"></a></td>
+    <td width="33%"><a href="https://biomove.net"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/biomove.net.png" alt="Biomove Center" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://github.com/EngAboodSDev/laravel-real-time-chat-api"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/laravel-chat-app.svg" alt="Laravel Real Time Chat App" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/EngAboodSDev"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/company-profile.png" alt="Company Profile" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/EngAboodSDev/go-home-clinic"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/go-home-clinic.png" alt="Go Home Clinic" width="100%"></a></td>
+  </tr>
+   <tr>
+    <td width="33%"><a href="https://github.com/EngAboodSDev/copd-guard"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/copd-guard.svg" alt="COPD GUARD Dashboard" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/EngAboodSDev/aoun"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/aoun.png" alt="Aoun" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/EngAboodSDev"><img src="https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/projects/all-in-gym.png" alt="All In Gym" width="100%"></a></td>
+  </tr>
+</table>
 
 </details>
 
