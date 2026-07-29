@@ -7,7 +7,7 @@
   <rect x="520" y="35" width="160" height="40" rx="20" fill="#0f172a" stroke="#334155"/>
 
   <!-- centered around 600 -->
-  <circle cx="560" cy="55" r="6" fill="#ec4899"/>
+  <circle cx="560" cy="55" r="6" fill="#f26457"/>
   <circle cx="600" cy="55" r="6" fill="#526d82"/>
   <circle cx="640" cy="55" r="6" fill="#4bc9b0">
     <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
