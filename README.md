@@ -241,37 +241,39 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 191.1 kB Used in GitHub's Storage 
  > 
-> 🏆 114 Contributions in the Year 2026
+> 🏆 116 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                719 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-🌆 Daytime                602 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌃 Evening                749 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-🌙 Night                  1123 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
+🌞 Morning                719 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌆 Daytime                602 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌃 Evening                751 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+🌙 Night                  1123 commits        █████████░░░░░░░░░░░░░░░░   35.15 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
 Tuesday                  101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Wednesday                1035 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Thursday                 289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Friday                   110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Saturday                 471 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                1035 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Thursday                 291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Friday                   110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Saturday                 471 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 Sunday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
@@ -306,12 +308,8 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/EngAboodSDev/EngAboodSDev/main/assets/bar_graph.png)
-
-
- Last Updated on 30/07/2026 19:10:13 UTC
+ Last Updated on 30/07/2026 19:51:07 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
