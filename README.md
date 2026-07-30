@@ -239,6 +239,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
   </summary>
 
 <div align="center">
+ 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue?style=flat)
 
@@ -312,6 +313,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 30/07/2026 19:10:13 UTC
 <!--END_SECTION:waka-->
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
 
   <img src="https://github-readme-stats.shion.dev/api?username=EngAboodSDev&theme=vue-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
