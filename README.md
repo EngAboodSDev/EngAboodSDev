@@ -241,7 +241,7 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -284,11 +284,12 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-INI                      3 mins              █████████████████████████   100.00 % 
+Markdown                 5 mins              ██████████████░░░░░░░░░░░   57.34 % 
+INI                      3 mins              ███████████░░░░░░░░░░░░░░   42.66 % 
 
 🔥 Editors: 
-VS Code                  2 mins              ██████████████░░░░░░░░░░░   56.07 % 
-Antigravity IDE          1 min               ███████████░░░░░░░░░░░░░░   43.93 % 
+Antigravity IDE          6 mins              ███████████████████░░░░░░   76.08 % 
+VS Code                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -310,7 +311,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 02:02:34 UTC
+ Last Updated on 02/08/2026 13:04:47 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
