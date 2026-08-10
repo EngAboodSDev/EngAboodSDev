@@ -286,24 +286,24 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      16 hrs 29 mins      ███████████████████████░░   91.64 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+PHP                      15 hrs 54 mins      ███████████████████████░░   93.68 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 18 mins      ███████████████████████░░   90.61 % 
-Antigravity Desktop      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Antigravity IDE          15 hrs 18 mins      ███████████████████████░░   90.06 % 
+Antigravity Desktop      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (26.78%)
+⏱ AI Coding Time: 4 hrs 49 mins (28.36%)
 
-✍️ 74 lines written by AI, 1,618 lines written by hand (4.37% AI-written)
+✍️ 74 lines written by AI, 1,580 lines written by hand (4.47% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -314,10 +314,10 @@ VS Code                  12 mins             ░░░░░░░░░░░�
 Gemini                   74 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.37% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.47% of written lines came from AI
 📄 Detailed Prompter — average 664 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 97.21% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -333,7 +333,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 01:08:48 UTC
+ Last Updated on 10/08/2026 12:52:20 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
