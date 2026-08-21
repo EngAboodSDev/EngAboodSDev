@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2051%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%208%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2012%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2024%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,44 +286,44 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      28 hrs 54 mins      ██████████████████████░░░   88.43 % 
-Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Blade Template           1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+PHP                      31 hrs 13 mins      ██████████████████████░░░   87.83 % 
+Markdown                 1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Blade Template           1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Antigravity IDE          26 hrs 53 mins      █████████████████████░░░░   82.26 % 
-Cursor                   3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Antigravity Desktop      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Agent                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Antigravity IDE          25 hrs 32 mins      ██████████████████░░░░░░░   71.85 % 
+Cursor                   4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Agent                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Antigravity Desktop      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+VS Code                  36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 9 mins (43.32%)
+⏱ AI Coding Time: 17 hrs 13 mins (48.44%)
 
-✍️ 7,793 lines written by AI, 2,382 lines written by hand (76.59% AI-written)
+✍️ 10,079 lines written by AI, 2,567 lines written by hand (79.7% AI-written)
 
-🔤 13,668 Input Tokens, 116,188 Output Tokens
+🔤 19,861 Input Tokens, 175,979 Output Tokens
 
-💵 $1.78 Estimated AI Cost This Week
+💵 $2.70 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 192 AI Prompts
+🧠 27 AI Sessions, 223 AI Prompts
 
-Cursor                   3,705 lines         ████████████████████░░░░░   81.57 % 
-Gemini                   603 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Antigravity-Ide          167 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Sonnet                   67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Cursor                   5,991 lines         ██████████████████████░░░   87.74 % 
+Gemini                   603 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Antigravity-Ide          167 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Sonnet                   67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.59% of written lines came from AI
-📚 Verbose Prompter — average 2,510 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 33.23% of changed lines were hand-edited
+🤖 AI-Driven — 79.7% of written lines came from AI
+📚 Verbose Prompter — average 2,235 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 30.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -339,7 +339,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:52:12 UTC
+ Last Updated on 21/08/2026 12:31:23 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
