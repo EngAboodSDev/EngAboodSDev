@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2047%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2025%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2028%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2042%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,41 +286,42 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      29 hrs 58 mins      █████████████████████░░░░   84.76 % 
-Markdown                 4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+PHP                      36 hrs 54 mins      ██████████████████████░░░   86.28 % 
+Markdown                 5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Cursor                   26 hrs 30 mins      ███████████████████░░░░░░   74.94 % 
-Agent                    4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-VS Code                  4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Cursor                   32 hrs 4 mins       ███████████████████░░░░░░   74.97 % 
+Agent                    6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+VS Code                  4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 13 mins (51.56%)
+⏱ AI Coding Time: 25 hrs 31 mins (59.65%)
 
-✍️ 36,388 lines written by AI, 1,596 lines written by hand (95.8% AI-written)
+✍️ 43,631 lines written by AI, 1,647 lines written by hand (96.36% AI-written)
 
-🔤 44,188 Input Tokens, 198,391 Output Tokens
+🔤 70,325 Input Tokens, 123,923 Output Tokens
 
-💵 $3.11 Estimated AI Cost This Week
+💵 $2.07 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 253 AI Prompts
+🧠 55 AI Sessions, 348 AI Prompts
 
-Cursor                   7,305 lines         █████████████████████████   100.00 % 
+Cursor                   7,974 lines         ████████████████████████░   97.76 % 
+Grok                     183 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.8% of written lines came from AI
-📚 Verbose Prompter — average 3,576 characters per prompt
+🤖 AI-Driven — 96.36% of written lines came from AI
+📚 Verbose Prompter — average 3,090 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.25% of changed lines were hand-edited
+🚀 High AI Trust — 6.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -336,7 +337,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 00:51:28 UTC
+ Last Updated on 26/08/2026 12:36:01 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
