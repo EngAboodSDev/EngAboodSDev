@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2028%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%206%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2048%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2026%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,41 +286,41 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      29 hrs 54 mins      ███████████████████░░░░░░   74.79 % 
-Markdown                 9 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+PHP                      25 hrs 43 mins      ██████████████████░░░░░░░   70.86 % 
+Markdown                 9 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Blade Template           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Cursor                   33 hrs 21 mins      █████████████████████░░░░   83.43 % 
-VS Code                  3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Agent                    2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Cursor                   33 hrs 27 mins      ███████████████████████░░   92.15 % 
+Agent                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 15 mins (83.19%)
+⏱ AI Coding Time: 32 hrs 57 mins (90.79%)
 
-✍️ 25,456 lines written by AI, 587 lines written by hand (97.75% AI-written)
+✍️ 24,812 lines written by AI, 305 lines written by hand (98.79% AI-written)
 
-🔤 202,643 Input Tokens, 202,643 Output Tokens
+🔤 315,267 Input Tokens, 315,267 Output Tokens
 
-💵 $3.65 Estimated AI Cost This Week
+💵 $5.67 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 446 AI Prompts
+🧠 76 AI Sessions, 441 AI Prompts
 
-Cursor                   1,858 lines         ████████████░░░░░░░░░░░░░   48.97 % 
-Grok                     1,854 lines         ████████████░░░░░░░░░░░░░   48.87 % 
-GPT                      82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+GPT                      2,799 lines         █████████████░░░░░░░░░░░░   52.59 % 
+Grok                     1,854 lines         █████████░░░░░░░░░░░░░░░░   34.84 % 
+Cursor                   669 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.75% of written lines came from AI
-📚 Verbose Prompter — average 2,820 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.94% of changed lines were hand-edited
+🤖 AI-Driven — 98.79% of written lines came from AI
+📚 Verbose Prompter — average 4,004 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -336,7 +336,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 02:53:50 UTC
+ Last Updated on 01/09/2026 15:51:42 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
