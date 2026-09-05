@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2021%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2030%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2029%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2034%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,39 +286,39 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      10 hrs 32 mins      ███████████████░░░░░░░░░░   59.90 % 
-Markdown                 6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PHP                      11 hrs 57 mins      ████████████████░░░░░░░░░   63.66 % 
+Markdown                 6 hrs               ████████░░░░░░░░░░░░░░░░░   32.01 % 
+TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 3 mins       ████████████████████████░   96.97 % 
-Agent                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Cursor                   18 hrs 9 mins       ████████████████████████░   96.70 % 
+Agent                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 7 mins (91.66%)
+⏱ AI Coding Time: 17 hrs 20 mins (92.34%)
 
-✍️ 13,884 lines written by AI, 101 lines written by hand (99.28% AI-written)
+✍️ 10,725 lines written by AI, 105 lines written by hand (99.03% AI-written)
 
-🔤 186,299 Input Tokens, 186,299 Output Tokens
+🔤 203,174 Input Tokens, 203,174 Output Tokens
 
-💵 $3.73 Estimated AI Cost This Week
+💵 $4.03 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 226 AI Prompts
+🧠 69 AI Sessions, 247 AI Prompts
 
 GPT                      2,799 lines         ██████████████████░░░░░░░   72.31 % 
 Grok                     1,072 lines         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.28% of written lines came from AI
-📚 Verbose Prompter — average 4,729 characters per prompt
+🤖 AI-Driven — 99.03% of written lines came from AI
+📚 Verbose Prompter — average 4,267 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.04% of changed lines were hand-edited
+🚀 High AI Trust — 1.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -334,7 +334,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 02:17:03 UTC
+ Last Updated on 05/09/2026 14:20:37 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
