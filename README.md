@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%209%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2023%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2021%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2024%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,40 +286,41 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      18 hrs 51 mins      ██████████████████░░░░░░░   70.01 % 
-Markdown                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Text                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Blade Template           58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+PHP                      19 hrs 56 mins      ███████████████████░░░░░░   74.51 % 
+Markdown                 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Text                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Blade Template           58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-Cursor                   24 hrs 17 mins      ███████████████████████░░   90.21 % 
-Agent                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Cursor                   23 hrs 59 mins      ██████████████████████░░░   89.59 % 
+Agent                    2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 1 min (78.05%)
+⏱ AI Coding Time: 20 hrs 49 mins (77.79%)
 
-✍️ 10,718 lines written by AI, 724 lines written by hand (93.67% AI-written)
+✍️ 9,529 lines written by AI, 725 lines written by hand (92.93% AI-written)
 
-🔤 809,539 Input Tokens, 809,539 Output Tokens
+🔤 803,227 Input Tokens, 782,737 Output Tokens
 
-💵 $14.60 Estimated AI Cost This Week
+💵 $14.59 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 301 AI Prompts
+🧠 89 AI Sessions, 294 AI Prompts
 
-Grok                     4,639 lines         ███████████████████░░░░░░   76.56 % 
-Fable                    1,389 lines         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-GPT                      31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Grok                     4,639 lines         ████████████████████░░░░░   79.16 % 
+Fable                    1,190 lines         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+GPT                      31 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.67% of written lines came from AI
-📚 Verbose Prompter — average 11,867 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.43% of changed lines were hand-edited
+🤖 AI-Driven — 92.93% of written lines came from AI
+📚 Verbose Prompter — average 11,661 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 12.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -335,7 +336,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 02:45:03 UTC
+ Last Updated on 15/09/2026 15:59:56 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
