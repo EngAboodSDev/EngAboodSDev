@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2044%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2041%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2024%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2041%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.93%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,42 +286,41 @@ Sunday                   447 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      45 hrs 23 mins      ███████████████████████░░   91.88 % 
-Markdown                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Text                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Blade Template           24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+PHP                      42 hrs 54 mins      ████████████████████████░   95.20 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Cursor                   39 hrs 44 mins      ████████████████████░░░░░   80.45 % 
-Agent                    4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Codex Vscode             3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Antigravity IDE          1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Cursor                   33 hrs 49 mins      ███████████████████░░░░░░   75.04 % 
+Codex Vscode             7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Agent                    2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Antigravity IDE          1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 59 mins (76.92%)
+⏱ AI Coding Time: 32 hrs 34 mins (72.29%)
 
-✍️ 28,700 lines written by AI, 1,568 lines written by hand (94.82% AI-written)
+✍️ 27,629 lines written by AI, 1,826 lines written by hand (93.8% AI-written)
 
-🔤 5,277,233 Input Tokens, 936,561 Output Tokens
+🔤 9,373,334 Input Tokens, 1,334,868 Output Tokens
 
-💵 $94.89 Estimated AI Cost This Week
+💵 $177.85 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 348 AI Prompts
+🧠 54 AI Sessions, 255 AI Prompts
 
-GPT                      2,351 lines         ██████████████████████░░░   89.84 % 
-Gemini                   191 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Grok                     75 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+GPT                      5,602 lines         ████████████████████████░   96.70 % 
+Gemini                   191 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.82% of written lines came from AI
-📚 Verbose Prompter — average 5,776 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.25% of changed lines were hand-edited
+🤖 AI-Driven — 93.8% of written lines came from AI
+📚 Verbose Prompter — average 4,161 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 13.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -337,7 +336,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 02:41:05 UTC
+ Last Updated on 23/09/2026 15:53:14 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
