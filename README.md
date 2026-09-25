@@ -241,11 +241,11 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2035%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2012%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2042%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2010%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -262,20 +262,20 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                720 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-🌆 Daytime                603 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-🌃 Evening                761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-🌙 Night                  1133 commits        █████████░░░░░░░░░░░░░░░░   35.22 % 
+🌞 Morning                720 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+🌆 Daytime                604 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+🌃 Evening                761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+🌙 Night                  1133 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
 Tuesday                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Wednesday                1038 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
+Wednesday                1038 commits        ████████░░░░░░░░░░░░░░░░░   32.26 % 
 Thursday                 293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Friday                   111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Saturday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Friday                   112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Saturday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 Sunday                   447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 ```
 
@@ -286,41 +286,41 @@ Sunday                   447 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      47 hrs 46 mins      ████████████████████████░   96.95 % 
-Markdown                 53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Text                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+PHP                      49 hrs 16 mins      █████████████████████████   98.69 % 
+Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   36 hrs 45 mins      ███████████████████░░░░░░   74.59 % 
-Codex Vscode             9 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Antigravity IDE          1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Agent                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Cursor                   33 hrs 4 mins       █████████████████░░░░░░░░   66.26 % 
+Codex Vscode             14 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+Antigravity IDE          1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Agent                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 57 mins (68.92%)
+⏱ AI Coding Time: 33 hrs 39 mins (67.4%)
 
-✍️ 22,745 lines written by AI, 2,479 lines written by hand (90.17% AI-written)
+✍️ 13,445 lines written by AI, 2,654 lines written by hand (83.51% AI-written)
 
-🔤 14,372,518 Input Tokens, 1,967,692 Output Tokens
+🔤 26,093,294 Input Tokens, 3,351,058 Output Tokens
 
-💵 $277.85 Estimated AI Cost This Week
+💵 $508.02 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 246 AI Prompts
+🧠 32 AI Sessions, 246 AI Prompts
 
-GPT                      6,527 lines         ████████████████████████░   97.16 % 
-Gemini                   191 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+GPT                      10,002 lines        █████████████████████████   98.13 % 
+Gemini                   191 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.17% of written lines came from AI
-📚 Verbose Prompter — average 3,669 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 19.81% of changed lines were hand-edited
+🤖 AI-Driven — 83.51% of written lines came from AI
+📚 Verbose Prompter — average 2,385 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 30.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -336,7 +336,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 02:47:10 UTC
+ Last Updated on 25/09/2026 16:16:00 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
