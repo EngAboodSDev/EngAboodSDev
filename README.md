@@ -286,38 +286,38 @@ Sunday                   447 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      9 hrs 11 mins       ██████████████░░░░░░░░░░░   55.67 % 
-Markdown                 6 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.55 % 
+PHP                      9 hrs 22 mins       ██████████████░░░░░░░░░░░   56.75 % 
+Markdown                 6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
 Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 NEON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 33 mins       ██████████████░░░░░░░░░░░   57.83 % 
-Codex Vscode             6 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
+Cursor                   10 hrs 14 mins      ████████████████░░░░░░░░░   62.07 % 
+Codex Vscode             6 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 47 mins (89.6%)
+⏱ AI Coding Time: 14 hrs 3 mins (85.19%)
 
-✍️ 10,450 lines written by AI, 215 lines written by hand (97.98% AI-written)
+✍️ 8,596 lines written by AI, 220 lines written by hand (97.5% AI-written)
 
-🔤 23,729,615 Input Tokens, 2,971,179 Output Tokens
+🔤 23,048,543 Input Tokens, 2,896,900 Output Tokens
 
-💵 $474.76 Estimated AI Cost This Week
+💵 $462.48 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 115 AI Prompts
+🧠 39 AI Sessions, 112 AI Prompts
 
-GPT                      5,901 lines         █████████████████████████   100.00 % 
+GPT                      4,020 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.98% of written lines came from AI
-📚 Verbose Prompter — average 10,080 characters per prompt
+🤖 AI-Driven — 97.5% of written lines came from AI
+📚 Verbose Prompter — average 10,041 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.7% of changed lines were hand-edited
+🚀 High AI Trust — 5.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -333,7 +333,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 16:15:21 UTC
+ Last Updated on 05/10/2026 03:20:39 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
