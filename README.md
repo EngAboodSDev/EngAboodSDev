@@ -286,39 +286,39 @@ Sunday                   447 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      4 hrs 50 mins       █████████████░░░░░░░░░░░░   51.50 % 
-Markdown                 3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-NEON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+PHP                      5 hrs 4 mins        █████████████░░░░░░░░░░░░   52.19 % 
+Markdown                 3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+NEON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 6 mins        █████████████████████░░░░   85.49 % 
-Agent                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Cursor                   8 hrs 9 mins        █████████████████████░░░░   82.98 % 
+Agent                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 58 mins (74.34%)
+⏱ AI Coding Time: 7 hrs 11 mins (73.84%)
 
-✍️ 4,668 lines written by AI, 114 lines written by hand (97.62% AI-written)
+✍️ 5,390 lines written by AI, 114 lines written by hand (97.93% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $5.20 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 90 AI Prompts
+🧠 33 AI Sessions, 99 AI Prompts
 
-Cursor                   1,569 lines         ████████████████████████░   95.38 % 
-GPT                      76 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Cursor                   1,905 lines         ████████████████████████░   96.16 % 
+GPT                      76 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.62% of written lines came from AI
-📚 Verbose Prompter — average 7,890 characters per prompt
+🤖 AI-Driven — 97.93% of written lines came from AI
+📚 Verbose Prompter — average 8,225 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.03% of changed lines were hand-edited
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -334,7 +334,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 18:16:32 UTC
+ Last Updated on 09/10/2026 03:55:11 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
