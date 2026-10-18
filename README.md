@@ -259,66 +259,6 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                720 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌆 Daytime                604 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌃 Evening                761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-🌙 Night                  1133 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Tuesday                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Wednesday                1038 commits        ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Thursday                 293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Friday                   112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Saturday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sunday                   447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Aden
-
-💬 Programming Languages: 
-PHP                      5 hrs 5 mins        ███████████████░░░░░░░░░░   58.89 % 
-Markdown                 3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.55 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-NEON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔥 Editors: 
-Agent                    5 hrs 14 mins       ███████████████░░░░░░░░░░   60.69 % 
-Cursor                   3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 54 mins (79.9%)
-
-✍️ 9,071 lines written by AI, 110 lines written by hand (98.8% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 39 AI Sessions, 68 AI Prompts
-
-Cursor                   5,219 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.8% of written lines came from AI
-📚 Verbose Prompter — average 7,643 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.44% of changed lines were hand-edited
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -332,7 +272,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 14:45:25 UTC
+ Last Updated on 18/10/2026 02:24:17 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
