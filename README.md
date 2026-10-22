@@ -241,11 +241,11 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%205%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2014%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2014%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2054%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.21%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -262,21 +262,21 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                720 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌆 Daytime                604 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌃 Evening                761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-🌙 Night                  1133 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
+🌞 Morning                722 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+🌆 Daytime                608 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌃 Evening                782 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+🌙 Night                  1144 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Tuesday                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Wednesday                1038 commits        ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Thursday                 293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Friday                   112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Saturday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sunday                   447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Monday                   744 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Tuesday                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Wednesday                1041 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Thursday                 301 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Friday                   116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Saturday                 485 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Sunday                   456 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -286,37 +286,37 @@ Sunday                   447 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      4 hrs 17 mins       ██████████████░░░░░░░░░░░   55.92 % 
-Markdown                 2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-NEON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+PHP                      10 hrs 50 mins      █████████████████░░░░░░░░   68.08 % 
+Markdown                 4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+NEON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 57 mins       ███████████████████░░░░░░   77.54 % 
-Agent                    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Agent                    9 hrs 41 mins       ███████████████░░░░░░░░░░   60.84 % 
+Cursor                   6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 6 mins (79.51%)
+⏱ AI Coding Time: 12 hrs 52 mins (80.85%)
 
-✍️ 6,096 lines written by AI, 7 lines written by hand (99.89% AI-written)
+✍️ 14,144 lines written by AI, 113 lines written by hand (99.21% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 63 AI Prompts
+🧠 32 AI Sessions, 130 AI Prompts
 
-Cursor                   723 lines           █████████████████████████   100.00 % 
+Cursor                   17,260 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 6,029 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.21% of written lines came from AI
+📚 Verbose Prompter — average 3,413 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -332,7 +332,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:43:26 UTC
+ Last Updated on 22/10/2026 16:24:33 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
