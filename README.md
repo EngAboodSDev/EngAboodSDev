@@ -241,9 +241,9 @@ I am a Highly Motivated and Results-Driven **Software Engineer and Backend Archi
 <div align="center">
  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2053%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2039%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2030%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2023%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.21%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -286,40 +286,41 @@ Sunday                   456 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      16 hrs 7 mins       ████████████████████░░░░░   78.01 % 
-Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-NEON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+PHP                      19 hrs 25 mins      ████████████████████░░░░░   79.15 % 
+Markdown                 4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Agent                    14 hrs 40 mins      ██████████████████░░░░░░░   70.99 % 
-Cursor                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Cursor Agent             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Agent                    14 hrs 39 mins      ███████████████░░░░░░░░░░   59.70 % 
+Cursor                   6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Cursor Agent             2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Codex Vscode             1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 36 mins (80.38%)
+⏱ AI Coding Time: 17 hrs 53 mins (72.85%)
 
-✍️ 15,486 lines written by AI, 142 lines written by hand (99.09% AI-written)
+✍️ 15,725 lines written by AI, 351 lines written by hand (97.82% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 181 AI Prompts
+🧠 47 AI Sessions, 185 AI Prompts
 
-Cursor                   20,555 lines        ███████████████████████░░   90.38 % 
-Default                  2,187 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Cursor                   20,555 lines        █████████████████████░░░░   85.54 % 
+Default                  3,476 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.09% of written lines came from AI
-📚 Verbose Prompter — average 2,558 characters per prompt
+🤖 AI-Driven — 97.82% of written lines came from AI
+📚 Verbose Prompter — average 2,358 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.79% of changed lines were hand-edited
+🚀 High AI Trust — 5.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -335,7 +336,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:08:29 UTC
+ Last Updated on 27/10/2026 17:09:23 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
