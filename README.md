@@ -286,41 +286,41 @@ Sunday                   456 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-PHP                      19 hrs 25 mins      ████████████████████░░░░░   79.15 % 
-Markdown                 4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+PHP                      21 hrs 53 mins      ████████████████████░░░░░   80.08 % 
+Markdown                 4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Agent                    14 hrs 39 mins      ███████████████░░░░░░░░░░   59.70 % 
-Cursor                   6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Cursor Agent             2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Codex Vscode             1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Agent                    14 hrs 7 mins       █████████████░░░░░░░░░░░░   51.62 % 
+Cursor                   9 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
+Cursor Agent             2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Codex Vscode             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 53 mins (72.85%)
+⏱ AI Coding Time: 19 hrs 56 mins (72.93%)
 
-✍️ 15,725 lines written by AI, 351 lines written by hand (97.82% AI-written)
+✍️ 16,955 lines written by AI, 459 lines written by hand (97.36% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 185 AI Prompts
+🧠 48 AI Sessions, 206 AI Prompts
 
-Cursor                   20,555 lines        █████████████████████░░░░   85.54 % 
-Default                  3,476 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Cursor                   20,231 lines        ████████████████████░░░░░   78.76 % 
+Default                  5,456 lines         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.82% of written lines came from AI
-📚 Verbose Prompter — average 2,358 characters per prompt
+🤖 AI-Driven — 97.36% of written lines came from AI
+📚 Verbose Prompter — average 2,918 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.61% of changed lines were hand-edited
+🚀 High AI Trust — 5.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -336,7 +336,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 17:09:23 UTC
+ Last Updated on 28/10/2026 03:21:49 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngAboodSDev&theme=vue&animation=draw&duration=5&title_color=4bc9b0&text_color=ffffff&bg_color=27374d&icon_color=4bc9b0&chart_color=4bc9b0" />
